@@ -1,6 +1,7 @@
-# Introduction
+# はじめに
 
-"Gutenberg" is the codename for the 2017 WordPress editor focus. The goal of this focus is to create a new post and page editing experience that makes it easy for anyone to create rich post layouts. This was the kickoff goal:
+「グーテンベルク」は、2017年のWordPressのエディターで重点的にとりくむためのコードネームです。この重点的な取り組みのゴールは、だれでも簡単にリッチなポストレイアウトを作成できる、投稿と固定ページの新しい編集体験を生み出すことです。以下が最初に決めたゴールです:
+
 
 > The editor will endeavour to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery.
 
